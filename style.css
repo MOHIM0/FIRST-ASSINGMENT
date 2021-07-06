@@ -1,7 +1,21 @@
 body{
     font-family: 'Noto Sans JP', sans-serif;
 }
-.title span{
+.main-section{
+    margin-bottom: 50px;
+    background-image: url(images/Back-ground/Great-Small-Restaurant-Interior-Designs.jpg);
+    padding-bottom: 15%;
+}
+.main-title{
+    color: white;
+    text-align:center;
+    margin-top: 10%;
+    font-family: 'Great Vibes', cursive;
+}
+.space{
+    margin-left: 40px;
+}
+h1 span{
     color:coral
 }
 h1{
