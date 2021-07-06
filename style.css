@@ -34,6 +34,7 @@ h2{
 .second-part{
     display: flex;
     margin-bottom: 50px;
+    background-image: url(images/shapes/7.png);
 }
 .alignment{
     text-align: center;
