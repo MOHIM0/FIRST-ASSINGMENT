@@ -97,3 +97,18 @@ h2{
 .name span{
     color: yellowgreen
 }
+.customer{
+    text-align: center;
+    color: yellowgreen
+}
+.engagement-customer{
+    display: flex;
+}
+.engagement-customer div{
+    box-shadow: 1px 1px 6px gray;
+    width: 88%;
+    margin-right: 20px;
+    margin-left: 10px;
+    margin-bottom: 80px;
+    padding-left: 10px;
+}
