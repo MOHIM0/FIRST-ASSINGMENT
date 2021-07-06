@@ -5,11 +5,11 @@ body{
     color:coral
 }
 h1{
-    font-size: 60px;
+    font-size: 50px;
 }
 .upper-part{
     display: flex;
-    width: 100%;
+    width: 90%;
     margin-bottom: 50px;
     padding-left: 40px;
 }
@@ -54,4 +54,31 @@ h2{
 }
 .third-part{
     margin-bottom: 50px;
+}
+.engagement{
+    display: flex;
+    box-shadow: 1px 1px 6px gray;
+    width: 88%;
+    border-radius: 20px;
+    margin-left: 80px;
+    margin-bottom: 80px;
+}
+.engagement div{
+    margin-left: 190px;
+}
+.bottom{
+    text-align: center;
+    background-color: black;
+    height: 200px;
+}
+.bottom p{
+    color: white;
+    font-family:Courier, monospace;
+}
+.name{
+    color:#146368;
+    padding-top: 30px;
+}
+.name span{
+    color: yellowgreen
 }
