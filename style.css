@@ -10,7 +10,8 @@ h1{
 .upper-part{
     display: flex;
     width: 100%;
-    margin-bottom: 30px;
+    margin-bottom: 50px;
+    padding-left: 40px;
 }
 .anchor-button{
     background-image: linear-gradient(coral , orange);
@@ -32,6 +33,7 @@ h2{
 }
 .second-part{
     display: flex;
+    margin-bottom: 50px;
 }
 .alignment{
     text-align: center;
@@ -49,4 +51,7 @@ h2{
     margin-left: 40px;
     padding: 20px 20px;
     border-radius: 20px;
+}
+.third-part{
+    margin-bottom: 50px;
 }
