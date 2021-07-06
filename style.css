@@ -1,0 +1,52 @@
+body{
+    font-family: 'Noto Sans JP', sans-serif;
+}
+.title span{
+    color:coral
+}
+h1{
+    font-size: 60px;
+}
+.upper-part{
+    display: flex;
+    width: 100%;
+    margin-bottom: 30px;
+}
+.anchor-button{
+    background-image: linear-gradient(coral , orange);
+    border-radius: 30px;
+    text-decoration: none;
+    padding: 13px 20px;
+    color: white;
+}
+.width-adjust img{
+    width: 80%;
+}
+.width-adjust{
+    width: 50%;
+    padding-left: 50px;
+    padding-right: 30px;
+}
+h2{
+    color: teal;
+}
+.second-part{
+    display: flex;
+}
+.alignment{
+    text-align: center;
+}
+.recepies{
+    display: flex;
+    padding-left: 40px;
+}
+.recepies img{
+    width: 100%;
+}
+.recepies div{
+    box-shadow: 1px 1px 6px gray;
+    width: 25%;
+    margin-left: 40px;
+    padding: 20px 20px;
+    border-radius: 20px;
+}
